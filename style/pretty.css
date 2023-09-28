@@ -26,3 +26,17 @@
 .img-gradient img {
   display: block;
 }
+.team {
+  background-image: url("./image/team.png");
+  background-repeat: no-repeat;
+  width: auto;
+  height: 44rem;
+  opacity: 0.9;
+}
+.section3 {
+  /* background-image: url("./images/team.png"); */
+  background-repeat: no-repeat;
+  width: auto;
+  height: 44rem;
+  opacity: 0.9;
+}
